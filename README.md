@@ -9,8 +9,8 @@ I am a **Software Developer** with over two years of experience in designing and
 ---
 
 ### 📫 How to reach me:
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaushikjain67890@gmail.com)  
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918955302242)
+Email : [kaushikjain67890@gmail.com](mailto:kaushikjain67890@gmail.com)  
+Phone : [8955302242](tel:+918955302242)
 
 ---
 
